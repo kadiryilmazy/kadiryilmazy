@@ -15,8 +15,8 @@
 
 ### 🔥 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadiryilmaz&show_icons=true&theme=radical" alt="Kadir's GitHub stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiryilmaz&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadiryilmazy&show_icons=true&theme=radical" alt="Kadir's GitHub stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiryilmazy&layout=compact&theme=radical" alt="Top Languages" height="180">
 </p>
 
 ---
