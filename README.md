@@ -8,7 +8,7 @@
 ### 🚀 Hakkımda
 - 🌱 Şu anda **ReactJS ve Node.js** öğreniyorum.
 - 💼 **Frontend ve Backend** geliştirme üzerine çalışıyorum.
-- 📫 Bana ulaşın: **kadiryilmaz@example.com**
+- 📫 Bana ulaşın: **kadiryilmazy@hotmail.com**
 - 💬 Laravel, PHP, JavaScript ve modern web teknolojileri hakkında konuşmayı seviyorum.
 
 ---
@@ -19,17 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiryilmazy&layout=compact&theme=radical" alt="Top Languages" height="180">
 </p>
 
----
-
-### 🌟 Öne Çıkan Projelerim
-<p align="center">
-  <a href="https://github.com/kadiryilmaz/proje1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadiryilmaz&repo=proje1&theme=radical" alt="Proje 1">
-  </a>
-  <a href="https://github.com/kadiryilmaz/proje2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadiryilmaz&repo=proje2&theme=radical" alt="Proje 2">
-  </a>
-</p>
 
 ---
 
@@ -47,10 +36,10 @@
 
 ### 📣 Bana Ulaşın
 <p align="center">
-  <a href="https://linkedin.com/in/kadiryilmaz" target="_blank">
+  <a href="https://linkedin.com/in/kadiryilmazy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:kadiryilmaz@example.com">
+  <a href="mailto:kadiryilmazy@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
